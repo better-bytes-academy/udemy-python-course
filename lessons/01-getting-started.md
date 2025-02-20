@@ -24,7 +24,7 @@ Python có thể được sử dụng trong nhiều lĩnh vực khác nhau, từ
 
 ---
 
-### **Tại sao nên dùng Python?**
+# **Tại sao nên dùng Python?**
 1. **Dễ học và dễ sử dụng:**
    - Cú pháp của Python rất đơn giản, gần gũi với ngôn ngữ tự nhiên, giúp người mới học lập trình dễ dàng tiếp cận.
    - Không cần phải nhớ quá nhiều quy tắc phức tạp như các ngôn ngữ khác (ví dụ: Java hoặc C++).
@@ -52,7 +52,7 @@ Python có thể được sử dụng trong nhiều lĩnh vực khác nhau, từ
 
 ---
 
-### **Độ phổ biến của Python cho tới hiện nay**
+# **Độ phổ biến của Python cho tới hiện nay**
 Python đã trở thành một trong những ngôn ngữ lập trình phổ biến nhất thế giới. Dưới đây là một số yếu tố chứng minh độ phổ biến của Python:
 
 1. **Xếp hạng trên các bảng chỉ số:**
@@ -74,6 +74,3 @@ Python đã trở thành một trong những ngôn ngữ lập trình phổ bi�
    - Số lượt tìm kiếm từ khóa "Python" trên Google Trends liên tục tăng, phản ánh sự quan tâm ngày càng lớn của người dùng.
 
 ---
-
-### **Kết luận**
-Python là một ngôn ngữ lập trình mạnh mẽ, linh hoạt và dễ học, phù hợp cho cả người mới bắt đầu lẫn các chuyên gia. Với sự phát triển không ngừng của công nghệ, đặc biệt là trong lĩnh vực trí tuệ nhân tạo và khoa học dữ liệu, Python sẽ tiếp tục duy trì vị thế của mình như một trong những ngôn ngữ lập trình quan trọng nhất thế giới. Nếu bạn đang tìm kiếm một ngôn ngữ để bắt đầu học lập trình hoặc phát triển ứng dụng, Python chắc chắn là một lựa chọn tuyệt vời!
